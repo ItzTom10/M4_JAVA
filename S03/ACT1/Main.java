@@ -1,4 +1,4 @@
-package S03;
+package S03.ACT1;
 
 public class Main {
 
@@ -7,9 +7,9 @@ public class Main {
 
 
         // Objetos
-        Persona p1 = new Persona("Carlos", 27);
-        Persona p2 = new Persona("Patricia", 20);
-        Persona p3 = new Persona("Brenda", 22);
+        Persona p1 = new Persona("Itzel", 32);
+        Persona p2 = new Persona("Santiago", 18);
+        Persona p3 = new Persona("Alejandro", 34);
 
 
         // Resultados

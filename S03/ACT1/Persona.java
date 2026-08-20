@@ -1,4 +1,4 @@
-package S03;
+package S03.ACT1;
 
 public class Persona {
 
@@ -19,3 +19,4 @@ public class Persona {
         System.out.println("Hola, soy " + nombre + " y tengo " + edad + " años.");
     }
 }
+
