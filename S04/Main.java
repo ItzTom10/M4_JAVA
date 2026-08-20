@@ -3,7 +3,7 @@ package S04;
 public class Main {
     public static void main(String[] args) {
         // Creamos el objeto de tipo persona, indicando que tiene 25 años
-        Persona p = new Persona("Eric", 25);
+        Persona p = new Persona("Alain", 18);
         // Mostramos los datos de la persona
         p.mostrarDatos();
         // Modificamos la edad de la persona a 30 años
